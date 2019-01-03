@@ -1,3 +1,5 @@
+// MA: TEST
+
 #include <iostream>
 
 #include "class_node.h"
